@@ -47,6 +47,10 @@ a:hover {
 
 @media (max-width: 480px) {
     #clock {
-        font-size: 2.5rem; /* Reduz mais para celulares pequenos */
+        font-size: 2.5rem;
     }
+}
+
+footer {
+    padding: 10px 0;
 }
