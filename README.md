@@ -6,13 +6,8 @@ Projeto desenvolvido com HTML, CSS e JavaScript, o qual serviu para que eu, inic
 
 Trata-se de um relógio no formato 24 horas, funcional e responsivo para diferentes dimensões de telas. Funciona de forma simples, a partir do objeto Date() e do método setInterval() para atualização do relógio a cada segundo. Além disso, o método .padStart garante que haja sempre dois dígitos nas horas, minutos e segundos. 
 
-### 📷 Capturas de tela
-
-**Desktop 🖥️:**
+### 📷 Captura de tela
 ![clock.jpg](https://github.com/thaiisilveira/digital-clock/blob/main/clock.jpg)
-
-**Dispositivos mobile 📱**
-![clockMobile.jpg](https://github.com/thaiisilveira/digital-clock/blob/main/clockMobile.jpg)
 
 ### 🔗 Acesso 
 Você pode visitar a página do projeto [clicando aqui!](https://thaiisilveira.github.io/digital-clock/)
